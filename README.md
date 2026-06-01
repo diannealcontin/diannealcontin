@@ -17,36 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 BS Information Technology · Davao del Norte State College
-
-![2nd Year](https://img.shields.io/badge/2nd%20Year%20Student-🎓-black?style=flat-square)
-![IT](https://img.shields.io/badge/IT%20Enthusiast-💻-black?style=flat-square)
-![Davao](https://img.shields.io/badge/Based%20in%20Davao%20🇵🇭-black?style=flat-square)
-
-</div>
-
----
-
-### 🖤 About Me
-- ✦ **2nd year BSIT student** at Davao del Norte State College
-- ✦ Passionate about **web development** & learning new technologies
-- ✦ Currently building my portfolio & growing on **GitHub**
-- ✦ Loves aesthetic designs 🌙 and coffee ☕
-
----
-
-### 🛠️ Tech Stack
-🌐 HTML · 🎨 CSS · ⚡ JavaScript · 🐍 Python · ☕ Java · 🗄️ SQL · 🐙 GitHub
-
----
-
-### 🌸 Currently
-- 📚 Studying · **2nd year BSIT**
-- 🌱 Learning · Web Development & GitHub
-- 🎯 Goal · Build amazing projects & land a great internship
-
----
-
 <div align="center">
-Made with 🖤 by Dianne · Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c084fc,100:f472b6&height=120&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi+I'm+Dianne!+🖤;Welcome+to+my+GitHub!+✨;BSIT+Student+🎓" alt="Typing SVG" />
+
+<br/><br/>
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f472b6)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f472b6)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=fbbf24)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=c084fc)
+![SQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=f472b6)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=60a5fa)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:c084fc,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
