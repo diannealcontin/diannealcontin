@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c084fc,100:f472b6&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Coding+my+dreams+one+line+at+a+time+%E2%9C%A8;Welcome+to+my+GitHub!+%F0%9F%96%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=‧₊˚🖤 Hi, I'm Dianne! 🖤˚₊‧;Coding+my+dreams+one+line+at+a+time+%E2%9C%A8;Welcome+to+my+GitHub!+%F0%9F%96%A4" alt="Typing SVG" />
 
 <br/><br/>
 
