@@ -1,6 +1,4 @@
-<div align="center">
-‧₊˚🖤 Hi, I'm Dianne! 🖤˚₊‧
-</div>
+
 <!--
 **diannealcontin/diannealcontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+
+‧₊˚🖤 Hi, I'm Dianne! 🖤˚₊‧
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c084fc,100:f472b6&height=120&section=header" width="100%"/>
 
