@@ -1,4 +1,5 @@
-
+<div align="center">
+‧₊˚🖤 Hi, I'm Dianne! 🖤˚₊‧
 <!--
 **diannealcontin/diannealcontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
