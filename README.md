@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c084fc,100:f472b6&height=120&section=header" width="100%"/>
 
-Hi, I'm Dianne! ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c084fc&text=Hi!%20I'm%20Dianne%20🖤&height=80&fontSize=40&fontAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%96%A4;Coding+my+dreams+one+line+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
